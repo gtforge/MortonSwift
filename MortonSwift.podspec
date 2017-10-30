@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "MortonSwift"
-  s.version      = "2.0.1"
+  s.name         = "Morton"
+  s.version      = "2.0.2"
   s.summary      = "MortonSwift"
   s.homepage     = "https://github.com/gtforge/MortonSwift"
   s.platform     = :ios, "10.0"
